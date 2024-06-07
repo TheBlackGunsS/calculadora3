@@ -12,3 +12,8 @@ def multiplicar():
     a = float(input("Introduce el primer número para multiplicar: "))
     b = float(input("Introduce el segundo número para multiplicar: "))
     return a * b
+
+def multiplicar():
+    a = float(input("Introduce el primer número para multiplicar: "))
+    b = float(input("Introduce el segundo número para multiplicar: "))
+    return a * b
